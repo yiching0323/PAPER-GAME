@@ -7,7 +7,7 @@ final int FLOOR4_RUN = 10, FLOOR4_WIN = 11, FLOOR4_LOSE = 12;
 final int FLOOR5_RUN = 13, FLOOR5_WIN = 14, FLOOR5_LOSE = 15;
 final int GAME_PASS = 16;
 
-int gameState = FLOOR5_RUN;
+int gameState = GAME_START;
 int floor4_state = 0 ;
 
 //WHOLE GAME
